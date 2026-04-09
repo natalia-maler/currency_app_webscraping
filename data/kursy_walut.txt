@@ -1,0 +1,30 @@
+Date: 30/03/2026 15:11:40
+USD:  buy for: 3.7187 PLN, sell: 3.7457 PLN,  avg: 3.7322 PLN
+JPY:  buy for: 2.3299 PLN, sell: 2.3559 PLN,  avg: 2.3429 PLN
+EUR:  buy for: 4.2727 PLN, sell: 4.3017 PLN,  avg: 4.2872 PLN
+CHF:  buy for: 4.6520 PLN, sell: 4.6830 PLN,  avg: 4.6675 PLN
+
+Date: 30/03/2026 15:11:52
+USD:  buy for: 3.7190 PLN, sell: 3.7460 PLN,  avg: 3.7325 PLN
+JPY:  buy for: 2.3299 PLN, sell: 2.3559 PLN,  avg: 2.3429 PLN
+EUR:  buy for: 4.2727 PLN, sell: 4.3017 PLN,  avg: 4.2872 PLN
+CHF:  buy for: 4.6522 PLN, sell: 4.6832 PLN,  avg: 4.6677 PLN
+
+Date: 09/04/2026 09:02:59
+USD:  buy for: 3.6335 PLN, sell: 3.6605 PLN,  avg: 3.647 PLN
+JPY:  buy for: 2.2839 PLN, sell: 2.3099 PLN,  avg: 2.2969 PLN
+EUR:  buy for: 4.2408 PLN, sell: 4.2698 PLN,  avg: 4.2553 PLN
+CHF:  buy for: 4.5949 PLN, sell: 4.6259 PLN,  avg: 4.6104 PLN
+
+Date: 09/04/2026 09:16:22
+USD:  buy for: 3.6374 PLN, sell: 3.6644 PLN,  avg: 3.6509 PLN
+JPY:  buy for: 2.2844 PLN, sell: 2.3104 PLN,  avg: 2.2974 PLN
+EUR:  buy for: 4.2425 PLN, sell: 4.2715 PLN,  avg: 4.257 PLN
+CHF:  buy for: 4.5975 PLN, sell: 4.6285 PLN,  avg: 4.613 PLN
+
+Date: 09/04/2026 10:28:43
+USD:  buy for: 3.6427 PLN, sell: 3.6697 PLN,  avg: 3.6562 PLN
+JPY:  buy for: 2.2857 PLN, sell: 2.3117 PLN,  avg: 2.2987 PLN
+EUR:  buy for: 4.2497 PLN, sell: 4.2787 PLN,  avg: 4.2642 PLN
+CHF:  buy for: 4.6042 PLN, sell: 4.6352 PLN,  avg: 4.6197 PLN
+
