@@ -28,3 +28,9 @@ JPY:  buy for: 2.2857 PLN, sell: 2.3117 PLN,  avg: 2.2987 PLN
 EUR:  buy for: 4.2497 PLN, sell: 4.2787 PLN,  avg: 4.2642 PLN
 CHF:  buy for: 4.6042 PLN, sell: 4.6352 PLN,  avg: 4.6197 PLN
 
+Date: 09/04/2026 11:23:05
+USD:  buy for: 3.6319 PLN, sell: 3.6589 PLN,  avg: 3.6454 PLN
+JPY:  buy for: 2.2815 PLN, sell: 2.3075 PLN,  avg: 2.2945 PLN
+EUR:  buy for: 4.2430 PLN, sell: 4.2720 PLN,  avg: 4.2575 PLN
+CHF:  buy for: 4.5927 PLN, sell: 4.6237 PLN,  avg: 4.6082 PLN
+

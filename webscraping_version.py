@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import re 
 import os
 from datetime import datetime
+import sys
 
 def repair_title(filename):
     return re.sub(r"[|%*?<>#]","",filename) 
